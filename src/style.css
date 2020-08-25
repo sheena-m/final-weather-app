@@ -30,3 +30,6 @@ body {
 #weather-description {
   text-transform: capitalize;
 }
+#source-code-link {
+  color: white;
+}
