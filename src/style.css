@@ -9,6 +9,13 @@ body {
   background: #fdf7e3;
 }
 
+.units {
+  position: relative;
+  left: 50px;
+}
+#current-location {
+  padding: 10px 40px;
+}
 .searched-details {
   font-family: "Istok Web", sans-serif;
 }
@@ -24,5 +31,12 @@ body {
   text-transform: capitalize;
 }
 #source-code-link {
+  color: white;
+}
+#celsius {
+  color: white;
+}
+
+#fahrenheit {
   color: white;
 }
