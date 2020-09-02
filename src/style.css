@@ -8,14 +8,7 @@ body {
 .card {
   background: #fdf7e3;
 }
-.col-4 {
-  position: relative;
-  left: 40px;
-}
-.units {
-  position: relative;
-  left: 50px;
-}
+
 .searched-details {
   font-family: "Istok Web", sans-serif;
 }
