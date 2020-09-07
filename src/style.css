@@ -40,3 +40,6 @@ body {
 #fahrenheit {
   color: white;
 }
+#forecast {
+  text-align: center;
+}
